@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 <!-- ### 👨🏻‍💻 &nbsp;Highlights -->
 
 
-&nbsp;Engineer from EMI - Morocco (Mohammadia School of engineers)
-&nbsp;Diploma of Higher Specialized Studies in Engineering from Université de Sherbrooke - Canada
-&nbsp;Currently Master's degree student on Data science at Université de Sherbrooke - Canada
+&nbsp;Engineer from EMI - Morocco (Mohammadia School of engineers) &nbsp;
+Diploma of Higher Specialized Studies in Engineering from Université de Sherbrooke - Canada &nbsp;
+Currently Master's degree student on Data science at Université de Sherbrooke - Canada
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
