@@ -27,24 +27,22 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left"> 
-<a href="https://medium.com/@cloud-architecture-design"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ezekias-bokove"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/EzekiasBokove"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ismail-idrissi-2ba235156"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/EZFRICA">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EZFRICA&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EZFRICA&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/IDRISSI1998">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IDRISSI1998&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IDRISSI1998&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 
 <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=EZFRICA&theme=cobalt&hide_border=true"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=IDRISSI1998&theme=cobalt&hide_border=true"/>
 </div>
 
 
