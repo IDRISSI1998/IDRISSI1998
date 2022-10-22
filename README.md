@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Ismail IDRISSI</h1>
 <h3 align="center">Welcome to my github profile, I love learning data science, and passionated with new AI development</h3>
- 
 
 <!-- ### 👨🏻‍💻 &nbsp;Highlights -->
+
 
 &nbsp;Engineer from EMI - Morocco (Mohammadia School of engineers)
 &nbsp;Diploma of Higher Specialized Studies in Engineering from Université de Sherbrooke - Canada
