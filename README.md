@@ -1,4 +1,4 @@
-![MasterHead]([https://](https://cdn.dribbble.com/users/31818/screenshots/2091618/dribbb.gif))
+![MasterHead](https://cdn.dribbble.com/users/31818/screenshots/2091618/dribbb.gif)
 
 <h1 align="center">Hi 👋, I'm Ismail IDRISSI</h1>
 <h3 align="center">Welcome to my github profile, I love learning data science, and passionated with new AI development</h3>
