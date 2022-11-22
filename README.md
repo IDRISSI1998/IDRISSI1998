@@ -17,7 +17,7 @@
 
 ### 👨🏻‍💻 &nbsp; About Me
 
-&nbsp;Engineer from EMI - Morocco (Mohammadia School of engineers) 
+&nbsp;Computer science engineer from EMI - Morocco (Mohammadia School of engineers) 
 
 &nbsp;Diploma of Higher Specialized Studies in Engineering from Université de Sherbrooke - Canada 
 
