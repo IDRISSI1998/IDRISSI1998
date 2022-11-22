@@ -14,6 +14,7 @@
 
 <!-- ### 👨🏻‍💻 &nbsp;Highlights -->
 
+
 ### 👨🏻‍💻 &nbsp; About Me
 
 &nbsp;Engineer from EMI - Morocco (Mohammadia School of engineers) 
@@ -21,6 +22,7 @@
 &nbsp;Diploma of Higher Specialized Studies in Engineering from Université de Sherbrooke - Canada 
 
 &nbsp;Currently Master's degree student on Data science at Université de Sherbrooke - Canada
+
 
 ###  &nbsp; Tools and langages
 
@@ -36,11 +38,13 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left"> 
 <a href="https://www.linkedin.com/in/ismail-idrissi-2ba235156"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
+
 
 
 ### ⚙️ &nbsp;GitHub Analytics
