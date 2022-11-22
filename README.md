@@ -40,13 +40,6 @@
 </a>
 </p>
 
-
-<div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=IDRISSI1998&theme=cobalt&hide_border=true"/>
-</div>
-
-
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IDRISSI1998&" alt="IDRISSI1998" /></a></p>
 <br />
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IDRISSI1998" alt="IDRISSI1998" /></a></p>
