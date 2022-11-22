@@ -14,6 +14,7 @@
 
 <!-- ### 👨🏻‍💻 &nbsp;Highlights -->
 
+### 👨🏻‍💻 &nbsp; About Me
 
 &nbsp;Engineer from EMI - Morocco (Mohammadia School of engineers) 
 
@@ -21,6 +22,7 @@
 
 &nbsp;Currently Master's degree student on Data science at Université de Sherbrooke - Canada
 
+###  &nbsp; Tools and langages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
