@@ -1,3 +1,10 @@
+<p align="center">
+<a>
+  <img height="180em" src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IDRISSI1998&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 ![MasterHead](https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif width="480" height="270")
 
 ![MasterHead](https://cdn.dribbble.com/users/31818/screenshots/2091618/dribbb.gif)
