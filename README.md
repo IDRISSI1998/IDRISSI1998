@@ -1,4 +1,4 @@
-![MasterHead](https://giphy.com/embed/U4ExkAvRpVQGB0NMe0)
+![MasterHead](https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif)
 
 ![MasterHead](https://cdn.dribbble.com/users/31818/screenshots/2091618/dribbb.gif)
 
