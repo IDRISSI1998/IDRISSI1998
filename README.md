@@ -1,15 +1,12 @@
 <p align="center">
 <a>
-  <img height="350em" src="https://res.cloudinary.com/dgofwp0my/image/upload/q_100/v1505907556/dra_172_artifical_intelligence_change_energy_jynxp2.gif"/>
+  <img height="400em" src="https://res.cloudinary.com/dgofwp0my/image/upload/q_100/v1505907556/dra_172_artifical_intelligence_change_energy_jynxp2.gif"/>
  </a>
 </p>
 
-![MasterHead](https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif width="480" height="270")
-
+<!--
 ![MasterHead](https://cdn.dribbble.com/users/31818/screenshots/2091618/dribbb.gif)
-
-<iframe src="https://giphy.com/embed/U4ExkAvRpVQGB0NMe0" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animation-3d-cgi-U4ExkAvRpVQGB0NMe0">via GIPHY</a></p>
-
+-->
 
 <h1 align="center">Hi 👋, I'm Ismail IDRISSI</h1>
 <h3 align="center">Welcome to my github profile, I love learning data science, and passionated with new AI development</h3>
