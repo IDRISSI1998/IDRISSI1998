@@ -1,4 +1,4 @@
-![MasterHead](https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif)
+![MasterHead](https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif width="480" height="270")
 
 ![MasterHead](https://cdn.dribbble.com/users/31818/screenshots/2091618/dribbb.gif)
 
