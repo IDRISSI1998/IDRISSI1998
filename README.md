@@ -1,6 +1,6 @@
 <p align="center">
 <a>
-  <img height="600em" src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif"/>
+  <img height="350em" src="https://res.cloudinary.com/dgofwp0my/image/upload/q_100/v1505907556/dra_172_artifical_intelligence_change_energy_jynxp2.gif"/>
  </a>
 </p>
 
