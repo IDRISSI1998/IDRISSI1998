@@ -2,7 +2,7 @@
 
 <p align="center">
       <a>
-            <img src="https://www.simontechway.com/wp-content/uploads/2020/04/php-development.gif"/>
+            <img height="400em" src="https://www.simontechway.com/wp-content/uploads/2020/04/php-development.gif"/>
       </a>
 </p>
 
