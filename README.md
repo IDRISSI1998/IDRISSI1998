@@ -2,7 +2,7 @@
 
 <p align="center">
       <a>
-            <img src="https://i.gifer.com/6DMM.mp4"/>
+            <img src="https://res.cloudinary.com/dgofwp0my/image/upload/q_100/v1505907556/dra_172_artifical_intelligence_change_energy_jynxp2.gif"/>
       </a>
 </p>
 
