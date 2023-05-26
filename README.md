@@ -2,7 +2,7 @@
 
 <p align="center">
       <a>
-            <img height="400" src="https://i.gifer.com/6ELl.gif"/>
+            <img src="https://i.gifer.com/6ELl.gif"/>
       </a>
 </p>
 
