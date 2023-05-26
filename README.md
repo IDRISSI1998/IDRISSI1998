@@ -5,7 +5,13 @@
             <img src="https://res.cloudinary.com/dgofwp0my/image/upload/q_100/v1505907556/dra_172_artifical_intelligence_change_energy_jynxp2.gif"/>
       </a>
 </p>
-<div style="padding-top:75.000%;position:relative;"><iframe src="https://gifer.com/embed/6DMM" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+
+<div style="padding-top:75.000%;position:relative;">
+      <iframe src="https://gifer.com/embed/6DMM" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe>
+</div>
+<p>
+      <a href="https://gifer.com">via GIFER</a>
+</p>
 
 <!--
   <img height="400em" src="https://res.cloudinary.com/dgofwp0my/image/upload/q_100/v1505907556/dra_172_artifical_intelligence_change_energy_jynxp2.gif"/>
