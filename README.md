@@ -17,9 +17,9 @@
 
 ### 👨🏻‍💻 &nbsp; About Me
 
-&nbsp;Diploma of Higher Specialized Studies in computer science from the faculty of science of Université de Sherbrooke - Canada 
+&nbsp;Specialized graduate diploma in computer science from the Faculty of Sciences of the University of Sherbrooke - Canada 
 
-&nbsp;Diploma of Higher Specialized Studies in engineering from the faculty of engineering of Université de Sherbrooke - Canada 
+&nbsp;Specialized graduate diploma in engineering from the Faculty of Engineering of the University of Sherbrooke - Canada 
 
 &nbsp;Computer science engineer from Mohammadia School of engineers (EMI) - Morocco 
 
