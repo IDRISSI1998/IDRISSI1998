@@ -10,18 +10,18 @@
 ![MasterHead](https://cdn.dribbble.com/users/31818/screenshots/2091618/dribbb.gif)
 -->
 
-<h3 align="center">Welcome to my github profile, I love learning data science, and passionated with new AI development</h3>
+<h3 align="center">Passionate about data science and web development.</h3>
 
 <!-- ### 👨🏻‍💻 &nbsp;Highlights -->
 
 
 ### 👨🏻‍💻 &nbsp; About Me
 
-&nbsp;Computer science engineer from EMI - Morocco (Mohammadia School of engineers) 
+&nbsp;Diploma of Higher Specialized Studies in computer science from the faculty of science of Université de Sherbrooke - Canada 
 
-&nbsp;Diploma of Higher Specialized Studies in Engineering from Université de Sherbrooke - Canada 
+&nbsp;Diploma of Higher Specialized Studies in engineering from the faculty of engineering of Université de Sherbrooke - Canada 
 
-&nbsp;Currently Master's degree student on Data science at Université de Sherbrooke - Canada
+&nbsp;Computer science engineer from Mohammadia School of engineers (EMI) - Morocco 
 
 
 ###  &nbsp; Tools and langages
