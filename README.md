@@ -5,7 +5,7 @@
       <!--
         <img height="400em" src="https://res.cloudinary.com/dgofwp0my/image/upload/q_100/v1505907556/dra_172_artifical_intelligence_change_energy_jynxp2.gif"/>
       -->  
-  <img height="400em" src="https://gifer.com/embed/6ELl"/>
+  <img height="400em" src="https://i.gifer.com/6ELl.gif"/>
  </a>
 </p>
 
