@@ -19,7 +19,7 @@
 <!-- ### 👨🏻‍💻 &nbsp;Highlights -->
 
 
-### 👨🏻‍💻 &nbsp; About Me
+### 👨🏻‍💻 &nbsp; Studies background
 
 &nbsp;Specialized graduate diploma in computer science from the Faculty of Sciences of the University of Sherbrooke - Canada 
 
